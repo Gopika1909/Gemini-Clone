@@ -51,9 +51,3 @@ This project is an advanced recreation of the GEMINI AI platform, leveraging Nex
 - **Animations**: Framer Motion
 - **UI Components**: Custom dev-components
 - **Theming**: Next Themes
-
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
-```bash
