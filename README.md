@@ -57,14 +57,3 @@ This project is an advanced recreation of the GEMINI AI platform, leveraging Nex
 To get a local copy up and running, follow these steps:
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/dev-gemini-clone.git
-
-# Navigate to the project directory
-cd dev-gemini-clone
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
